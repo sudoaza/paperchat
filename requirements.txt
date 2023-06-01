@@ -1,0 +1,4 @@
+langchain
+pgvector
+sentence_transformers
+psycopg2
